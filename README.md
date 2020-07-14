@@ -1,2 +1,0 @@
-# ChatterBox
-Chat App
